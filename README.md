@@ -82,7 +82,8 @@ Displays DDR Report + Extracted Images to User
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ai-ddr-report-generator.git
+# Clone your empty repo
+git clone https://github.com/Chaitanyasalunkhe17/DDR-AI.git
 cd ai-ddr-report-generator
 ```
 
